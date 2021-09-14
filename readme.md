@@ -24,3 +24,5 @@
 * Cleaning up and optimizing code
 
 * Using the Internet of Things (IoT), such as controlling a thermostat or lights in a house
+
+* Node.js, also known simply as Node, is a versatile runtime environment used to develop many types of projects, including build tools like document generators, servers that host websites or databases, and chat rooms.
