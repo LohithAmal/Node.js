@@ -12,4 +12,15 @@
 
  **Web developers commonly create or use tools that automate tasks from the command line, like generating webpages, creating README.md files, and even downsizing image folders.**
 
- 
+ * in the frontend projects we used to create a HTML file then script the javascript file path to activate the javascript but in node.js we dont need to do all those steps jsut create a javascript file and use the command line to execute it.
+
+
+ ## Node.js removes certain limitations for JavaScript developers. Some popular uses for Node.js include the following:
+
+* Creating web servers for a client to make a request to
+
+* Communicating in real time with a chat or livestream
+
+* Cleaning up and optimizing code
+
+* Using the Internet of Things (IoT), such as controlling a thermostat or lights in a house
