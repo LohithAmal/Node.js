@@ -43,4 +43,6 @@
 
 ![](images/aa.JPG)
 
+**NOde Package Manager npm** is first and foremost an online repository used for publishing open source code. It is also a command-line utility that we'll use to install the code packages or module bundles into the project. We'll dive deeper into these topics soon.
+
 
