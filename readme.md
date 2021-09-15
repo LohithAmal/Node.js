@@ -39,3 +39,8 @@
 * **common js** module sytem is used in the node.js to handle modules.
 * **modules** are simple, complex and multiple javascript files that are reusable throughout our applications.
 
+# different type of folder name convensions dist/distribution folders.
+
+![](images/aa.JPG)
+
+
