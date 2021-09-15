@@ -26,3 +26,16 @@
 * Using the Internet of Things (IoT), such as controlling a thermostat or lights in a house
 
 * Node.js, also known simply as Node, is a versatile runtime environment used to develop many types of projects, including build tools like document generators, servers that host websites or databases, and chat rooms.
+
+* to check the node version type **node --version** in the terminal
+
+# node [file system](https://nodejs.org/dist/latest-v12.x/docs/api/fs.html)
+* According to the documentation and the examples, this function can create multiple file types, including TXT, PDF, HTML, JSON, and more. The fs.writeFile() function definition has three arguments. The first argument is the name of the file that's being created. The next argument is the data that will write onto the file, in this case the HTML template literal. The last parameter is a callback function that will be used for error handling.
+* In the fs module, all functions have synchronous and asynchronous versions, including **fs.writeFile()** and **fs.writeFileSync()** [learn more](https://nodejs.org/dist/latest-v12.x/docs/api/fs.html#fs_fs_writefile_file_data_options_callback).
+
+* advantages of haveing an async function handle a file-writing process?
+    -  Writing data to a file can strain a computer's resources. Handling this process asynchronously allows the computer to run the process in the background, freeing up resources to continuously execute the current program without halting the runtime. 
+
+* **common js** module sytem is used in the node.js to handle modules.
+* **modules** are simple, complex and multiple javascript files that are reusable throughout our applications.
+
