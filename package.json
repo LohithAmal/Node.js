@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "* node.js is a sqynchronous javascript runtime environmanr that executes javascript code outside of a browser.\r * **npm** Node Package Manager, is the default package manager for Node.js. It is distributed with Node.js, which means that when you download Node.js, npm is automatically installed on your computer!\r * **inquirer** is an embeddable command-line interface for Node.js that makes it easy to ask questions, validate answers, parse input, provide error feedback, and manage hierarchical prompts.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LohithAmal/Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LohithAmal/Node.js/issues"
+  },
+  "homepage": "https://github.com/LohithAmal/Node.js#readme",
+  "dependencies": {
+    "inquirer": "^8.1.4"
+  }
+}
